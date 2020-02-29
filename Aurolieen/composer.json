@@ -1,0 +1,19 @@
+{
+    "name": "aurolieen/php-assessments",
+    "description": "PHP assessments intended for De Internet Jongens.",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "8.*"
+    },
+    "authors": [
+        {
+            "name": "Chris van Zanten",
+            "email": "git@chrisvanzanten.nl"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Aurolieen\\": ""
+        }
+    }
+}

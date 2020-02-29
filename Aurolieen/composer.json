@@ -15,5 +15,8 @@
         "psr-0": {
             "Aurolieen\\": ""
         }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^6.5"
     }
 }
